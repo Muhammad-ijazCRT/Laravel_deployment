@@ -16,7 +16,7 @@
           
 
 
-### create .htaccess in website main directory
+### create .htaccess in Hosting main directory
           
           RewriteEngine On
           RewriteCond %{HTTP_HOST} engineeringcracks\.com [NC]
